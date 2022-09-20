@@ -1,0 +1,23 @@
+{
+    "name": "Aplicación Gramalote",
+    "short_name": "Gramalote",
+    "description": "Aplicación Gramalote",
+    "icons": [
+      {
+        "src": "../../img/faviconGramalote.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+     
+      {
+        "src": "../../img/faviconGramalote.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://www.gpsmoviltrack.net/GramaloteBe/?N=inicio",
+    "display": "fullscreen",
+    "theme_color": "green",
+    "background_color": "green"
+  }
+  
